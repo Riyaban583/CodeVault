@@ -21,6 +21,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Riyaban583/CodeVault/tree/main/0070-climbing-stairs/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Riyaban583/CodeVault/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Riyaban583/CodeVault/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Riyaban583/CodeVault/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -32,4 +33,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1046-last-stone-weight](https://github.com/Riyaban583/CodeVault/tree/main/1046-last-stone-weight/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Riyaban583/CodeVault/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Riyaban583/CodeVault/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
