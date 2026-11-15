@@ -8,6 +8,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Riyaban583/CodeVault/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Riyaban583/CodeVault/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1046-last-stone-weight](https://github.com/Riyaban583/CodeVault/tree/main/1046-last-stone-weight/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Riyaban583/CodeVault/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1720-decode-xored-array](https://github.com/Riyaban583/CodeVault/tree/main/1720-decode-xored-array/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Riyaban583/CodeVault/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Hash Table
@@ -24,6 +25,7 @@
 | [0070-climbing-stairs](https://github.com/Riyaban583/CodeVault/tree/main/0070-climbing-stairs/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Riyaban583/CodeVault/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Riyaban583/CodeVault/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Riyaban583/CodeVault/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Riyaban583/CodeVault/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -37,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Riyaban583/CodeVault/tree/main/0070-climbing-stairs/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Riyaban583/CodeVault/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +60,8 @@
 | [1661-average-time-of-process-per-machine](https://github.com/Riyaban583/CodeVault/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/Riyaban583/CodeVault/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Riyaban583/CodeVault/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Riyaban583/CodeVault/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 <!---LeetCode Topics End-->
