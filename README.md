@@ -8,6 +8,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Riyaban583/CodeVault/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Riyaban583/CodeVault/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1046-last-stone-weight](https://github.com/Riyaban583/CodeVault/tree/main/1046-last-stone-weight/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/Riyaban583/CodeVault/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Riyaban583/CodeVault/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1720-decode-xored-array](https://github.com/Riyaban583/CodeVault/tree/main/1720-decode-xored-array/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Riyaban583/CodeVault/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -70,4 +71,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Riyaban583/CodeVault/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/Riyaban583/CodeVault/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 <!---LeetCode Topics End-->
