@@ -11,6 +11,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/Riyaban583/CodeVault/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Riyaban583/CodeVault/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1720-decode-xored-array](https://github.com/Riyaban583/CodeVault/tree/main/1720-decode-xored-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Riyaban583/CodeVault/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Riyaban583/CodeVault/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -32,6 +33,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Riyaban583/CodeVault/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Riyaban583/CodeVault/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,4 +79,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/Riyaban583/CodeVault/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Riyaban583/CodeVault/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 <!---LeetCode Topics End-->
