@@ -28,6 +28,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Riyaban583/CodeVault/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Riyaban583/CodeVault/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Riyaban583/CodeVault/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [3360-stone-removal-game](https://github.com/Riyaban583/CodeVault/tree/main/3360-stone-removal-game/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Riyaban583/CodeVault/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -81,6 +82,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/Riyaban583/CodeVault/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [3360-stone-removal-game](https://github.com/Riyaban583/CodeVault/tree/main/3360-stone-removal-game/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
